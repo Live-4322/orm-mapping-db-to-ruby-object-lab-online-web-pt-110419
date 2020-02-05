@@ -45,4 +45,4 @@ end
 def save
     sql = <<-SQL	   
       INSERT INTO students (name, grade)
-      
+  end    
